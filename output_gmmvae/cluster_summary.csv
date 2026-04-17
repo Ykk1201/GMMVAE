@@ -1,0 +1,16 @@
+cluster,n_samples,n_classes,dominant_class,dominant_purity,top3_classes
+0,1,1,"HGNET, MN1",1.0,"HGNET, MN1 (1)"
+1,70,4,"MB, SHH INF",0.657,"MB, SHH INF (46) | LIPN (10) | MB, SHH CHL AD (8)"
+2,152,11,"ATRT, SHH",0.303,"ATRT, SHH (46) | ATRT, TYR (37) | ATRT, MYC (29)"
+3,262,5,"GBM, RTK II",0.542,"GBM, RTK II (142) | GBM, RTK I (61) | GBM, MES (56)"
+4,772,40,"LGG, PA PF",0.148,"LGG, PA PF (114) | LGG, DNT (44) | PXA (40)"
+5,239,19,"ENB, A",0.096,"ENB, A (23) | PIN T,  PB B (22) | PITAD, FSH LH (21)"
+6,281,15,MNG,0.317,"MNG (89) | PLEX, PED B (28) | CPH, ADM (25)"
+7,57,4,"GBM, G34",0.719,"GBM, G34 (41) | GBM, RTK III (11) | GBM, RTK I (3)"
+8,26,2,"A IDH, HG",0.962,"A IDH, HG (25) | O IDH (1)"
+9,43,1,ETMR,1.0,ETMR (43)
+10,39,1,"CNS NB, FOXR2",1.0,"CNS NB, FOXR2 (39)"
+11,244,11,"EPN, PF A",0.373,"EPN, PF A (91) | EPN, RELA (69) | HGNET, BCOR (23)"
+12,179,4,O IDH,0.441,"O IDH (79) | A IDH (78) | A IDH, HG (21)"
+13,336,5,"MB, G4",0.411,"MB, G4 (138) | MB, G3 (77) | MB, SHH CHL AD (76)"
+14,100,5,"DMG, K27",0.77,"DMG, K27 (77) | GBM, MID (14) | ANA PA (6)"
